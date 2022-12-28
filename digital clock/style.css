@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+
+#showTime{
+    color:yellow;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%,50%);
+    font-weight: bold;
+    font-size: 70px;
+    border: 3px solid red;
+    padding: 20px 30px;
+    box-shadow: 5px 5px 8px 8px rgb(122, 4, 4);
+}
